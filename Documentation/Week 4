@@ -1,1 +1,28 @@
-
+Week  4 – Data Transformation
+Objective
+Transform dataset for analytical insights.
+In week four, the dataset was transformed using Power BI. Additional calculated columns were created to better understand ticket resolution time and priority levels.
+The dataset was structured properly to prepare it for dashboard development. This step helped in making the dataset more analytical and ready for visualization.
+Day-wise Activities
+  Day 1 – Creating Calculated Columns
+Created resolution duration column
+Derived performance metrics
+  Day 2 – Data Categorization
+Grouped priority levels
+Created ticket categories
+  Day 3 – Time-Based Analysis
+Extracted:
+Month
+Week
+Day columns
+Enabled trend analysis
+  Day 4 – Data Structuring
+Organized dataset layout
+Improved column hierarchy
+  Day 5 – Validation
+Tested calculations
+Verified transformation accuracy
+overview of weekly activities
+Outcome
+ Analytical dataset prepared
+ Ready for modeling phase
