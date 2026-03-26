@@ -1,1 +1,35 @@
+Week 5 – Data Modeling
+Objective
+Build structured data model using Power BI.
+We learned how to structure data properly for analysis using data modeling techniques in Power BI. We understood the concept of Fact Table and Dimension Tables, 
+where the fact table contains transactional and measurable data like resolution time and CSAT score, and dimension tables contain descriptive attributes like region, channel, and priority.
+We implemented a star schema, where the fact table is placed at the center and connected to multiple dimension tables. We also learned about relationships between tables, 
+including one-to-many and many-to-one relationships, and the concept of cardinality. 
+This helped in building a structured and optimized data model for better analysis.
 
+Day-wise Activities
+   Day 1 – Understanding Data Modeling
+Learned Fact vs Dimension tables
+Studied star schema concept
+  Day 2 – Creating Fact Table
+Stored measurable data:
+Resolution time
+Ticket count
+CSAT score
+  Day 3 – Creating Dimension Tables
+Created:
+Priority table
+Region table
+Channel table
+  Day 4 – Relationships
+Built table relationships
+Implemented:
+One-to-many relationships
+Defined cardinality
+  Day 5 – Model Optimization
+Removed redundant links
+Verified model performance
+Outcome
+Efficient star schema created
+Optimized analytical structure
+Self explanation and overview from each student
