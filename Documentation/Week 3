@@ -1,1 +1,37 @@
+Week 3 – Data Cleaning & Preprocessing (Power BI)
+Objective
+Clean and preprocess dataset using Power BI Power Query.
+In week 3, the dataset was cleaned using Power BI Power Query. Missing values were identified and handled. Unnecessary columns were removed and column names were standardized.
+Data types were corrected and duplicate records were checked. This step ensured that the dataset became suitable for further analysis and visualization. 
+Day-wise Activities
 
+Day 1 – Importing Dataset
+Imported dataset into Power BI
+Connected data source
+Reviewed table preview
+
+Day 2 – Handling Missing Values
+Used Power Query tools
+Replaced null values
+Removed unnecessary rows
+
+Day 3 – Removing Irrelevant Columns
+Deleted unused columns
+Renamed columns properly
+Improved dataset readability
+
+Day 4 – Data Type Correction
+Converted:
+Date fields
+Numeric columns
+Text fields
+Verified consistency
+
+Day 5 – Duplicate Validation
+Checked duplicate entries
+Applied filtering rules
+Loaded cleaned dataset into Power BI model
+
+Outcome
+Dataset optimized for visualization
+Clean and structured data model
