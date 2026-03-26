@@ -1,1 +1,32 @@
+Week 2: Data understanding and Data Cleaning
+ Objective
+Prepare raw dataset for analysis by cleaning and transforming data.
+In the second week, the selected dataset was explored in detail. The dataset structure was analyzed to understand the different columns, data types, and number of records.
+Key attributes such as ticket priority, issue category, resolution time, and ticket status were examined. Initial observations were made to understand patterns and trends within the dataset.
+This step helped in identifying important variables that would be useful for analyzing IT support team performance. The main objective of this week was to gain a clear understanding of the dataset before performing data cleaning and transformation .
+Here’s day by day explanation of week 2 
+Day 1: Removing Duplicates  And Handling Missing Values
+•	Used drop_duplicates()
+•	Ensured unique records
+•	Applied forward fill method
+•	Verified data consistency
+Day 2: Data Transformation
+•	Converted categorical variables
+•	Standardized formats
+Day 3: Feature Engineering
+•	Created derived features if needed
+•	Improved dataset usability
+Day 4: Encoding and Validation
+•	Used Label Encoding
+•	Converted text to numeric
+•	Rechecked dataset integrity
+•	Ensured no missing values
+Day 5: Saving Data
+•	Saved processed dataset
+•	Organized folder structure
+•	Explanation and overview of week 2
+ Outcome
+•	Clean dataset ready for analysis
+•	Preprocessing improves model accuracy
+•	Structured data is essential
 
