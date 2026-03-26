@@ -1,1 +1,28 @@
-
+WEEK 6 – Data Transformation & Power Query (Advanced)
+Objective
+Perform ETL operations using Power Query.
+In Week 6, we focused on data cleaning and transformation using Power Query. We worked on handling missing values, removing duplicates, correcting data types, and standardizing the dataset.
+We also explored column quality, column distribution, and column profiling to understand the data better.
+The ETL (Extract, Transform, Load) process was introduced, where data is extracted from sources, transformed in Power Query, and then loaded into Power BI. 
+This step ensured that the dataset is clean and ready for further analysis and visualization.
+Day-wise Activities
+  Day 1 – ETL Introduction
+Learned Extract, Transform, Load process
+Connected multiple data sources
+  Day 2 – Data Cleaning
+Removed duplicates
+Standardized formats
+  Day 3 – Column Profiling
+Used:
+Column quality
+Column distribution
+Column profiling
+  Day 4 – Data Type Validation
+Fixed incorrect formats
+Ensured numerical accuracy
+  Day 5 – Loading Data
+Loaded transformed dataset into Power BI
+Verified refresh functionality
+Outcome
+Clean ETL pipeline established
+explanation and overwive of sessions
