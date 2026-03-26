@@ -230,11 +230,10 @@ IT-Support-Analytics/
 ## 🙌 Author
 
 **Niranjana Lone**
-Final Year Engineering Project
 
 ---
 
-## ⭐ Acknowledgment
+## ⭐ Conclusion
 
 This project demonstrates how **data analytics + machine learning** can significantly improve IT support operations and business efficiency.
 
